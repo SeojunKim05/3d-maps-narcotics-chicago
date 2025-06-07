@@ -49,7 +49,7 @@ Sourced from the City of Chicago, the dataset includes real narcotics arrest rec
 3. Type **"3D Map"**, then select **3D Map** from the dropdown.
 4. Explore the interactive maps directly within Excel.
 
-> ℹ️ These maps are **interactive**—hover to see detailed case info, drag to rotate the view, or use filters to customize what you see.
+> ℹ️ These maps (and graphs) are **interactive**—hover to see detailed case info, drag to move and rotate the view, or use filters to customize what you see.
 
 ---
 

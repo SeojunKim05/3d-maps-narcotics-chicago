@@ -80,7 +80,7 @@ Each map is interactive and corresponds with one of the pivot tables.
 - Shows **all arrests across Chicago**
 - **Scene 3:** Colored by arrest descriptions (e.g., possession, delivery)
 - **Scene 4:** Colored by **type of location** where arrest occurred
-- Interactive legend and filters included
+- Interactive legend and graph included
 - Available as video: `Map_Chicago_Narcotics.mp4`
 
 ### 2. **Methamphetamine Arrests Map**
@@ -90,7 +90,7 @@ Each map is interactive and corresponds with one of the pivot tables.
 
 ### 3. **Cocaine Arrests Map**
 - Based on `Cocaine`
-- Interactive view divided by **location description**
+- Interactive view divided by **arrest location type**
 - Image preview: `Map_Cocaine.png`
 
 ### 4. **Drug Delivery by Minors Map**

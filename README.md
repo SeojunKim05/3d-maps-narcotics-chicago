@@ -79,24 +79,25 @@ Each map is interactive and corresponds with one of the pivot tables.
 - Based on `Master PT`
 - Shows **all arrests across Chicago**
 - **Scene 3:** Colored by arrest descriptions (e.g., possession, delivery)
-- **Scene 4:** Colored by **arrest location type** where arrest occurred
-- Interactive legend and graph included
+- **Scene 4:** Colored by **arrest location type** (e.g., parking lot)
+- Interactive graph included
 - Available as video: `Map_Chicago_Narcotics.mp4`
 
 ### 2. **Methamphetamine Arrests Map**
 - Based on `Methamphetamines`
-- Locations categorized by **arrest location type**
+- Colored by **arrest location type**
 - Available as image: `Map_Methamphetamines.png`
 
 ### 3. **Cocaine Arrests Map**
 - Based on `Cocaine`
-- Interactive view divided by **arrest location type**
+- Colored by **arrest location type**
+- Interactive graph included
 - Image preview: `Map_Cocaine.png`
 
 ### 4. **Drug Delivery by Minors Map**
 - Based on `Drug Delivery < 18`
 - Focused on underage drug delivery arrests
-- Grouped by location type
+- Colored by **arrest location type** 
 - Image preview: `Map_Delivery_Under_18.png`
 
 ---
@@ -106,8 +107,8 @@ Each map is interactive and corresponds with one of the pivot tables.
 While image previews and videos are provided, **the best experience is through Excel's built-in 3D Map tool**:
 
 - Hover to see arrest details by location
-- Use filters on the left panel to focus on specific drugs or wards
-- Rotate and zoom to explore data spatially
+- Use filters on the right panel to focus on specific location, date, or arrest type.
+- Rotate, move, and zoom to explore data spatially
 
 ---
 
@@ -119,8 +120,3 @@ While image previews and videos are provided, **the best experience is through E
 
 ---
 
-## 💡 Future Enhancements
-
-- Add time-based animation to visualize arrest trends by year/month
-- Extend categories to include demographic factors if available
-- Build an integrated Power BI dashboard for broader sharing

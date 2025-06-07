@@ -120,3 +120,12 @@ While image previews and videos are provided, **the best experience is through E
 
 ---
 
+## 🤝 Contact
+
+Got feedback or want to collaborate?
+
+📬 [Open an issue](https://github.com/SeojunKim05/PracticeProjects/issues)  
+💼 [LinkedIn](https://www.linkedin.com/in/seojun-kim-089b7b339)  
+📫 Email: kseojun05@gmail.com
+
+---

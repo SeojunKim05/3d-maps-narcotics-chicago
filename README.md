@@ -79,7 +79,7 @@ Each map is interactive and corresponds with one of the pivot tables.
 - Based on `Master PT`
 - Shows **all arrests across Chicago**
 - **Scene 3:** Colored by arrest descriptions (e.g., possession, delivery)
-- **Scene 4:** Colored by **type of location** where arrest occurred
+- **Scene 4:** Colored by **arrest location type** where arrest occurred
 - Interactive legend and graph included
 - Available as video: `Map_Chicago_Narcotics.mp4`
 

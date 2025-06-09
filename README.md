@@ -102,7 +102,7 @@ Each map is interactive and corresponds with one of the pivot tables.
 
 ---
 
-## 📌 Recommendation
+## 📌 Notes
 
 While image previews and videos are provided, **the best experience is through Excel's built-in 3D Map tool**:
 
